@@ -1,0 +1,29 @@
+_repo: The-Fulfilment-of-a-Dream-of-Pastor-Hsi-sThe-Story-of-the-Work-in-Hwochow_27243
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cable, Mildred
+    alias: Cable, Mildred Alice
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '32567'
+    url: http://www.gutenberg.org/2009/agents/32567
+description: ''
+gutenberg_issued: '2008-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27243'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Missions -- China -- Huo-hsien (Shansi Province)'
+title: 'The Fulfilment of a Dream of Pastor Hsi''s
+
+  The Story of the Work in Hwochow'
+url: http://www.gutenberg.org/ebooks/27243
